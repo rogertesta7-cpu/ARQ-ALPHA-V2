@@ -1,0 +1,14 @@
+# ARQV30 Enhanced v3.0 - Desktop Application Requirements
+# Dependências específicas para aplicação desktop
+
+# CustomTkinter - Interface gráfica moderna
+customtkinter>=5.2.0
+
+# Todas as dependências do projeto base
+-r requirements.txt
+
+# PyInstaller para criar executável
+pyinstaller>=6.0.0
+
+# Otimizações adicionais
+auto-py-to-exe>=2.40.0

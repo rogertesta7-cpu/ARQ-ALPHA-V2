@@ -3,6 +3,9 @@ setuptools>=68.0.0
 wheel>=0.41.0
 pip>=23.0.0
 
+# Desktop Interface
+customtkinter>=5.2.0
+
 # Core Framework
 flask==3.0.0
 gunicorn==21.2.0
